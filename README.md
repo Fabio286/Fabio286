@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi I'm Fabio Di Stasio 👋
+
+I'm a freelance web developer, i love tech, the open source world and JavaScript 💛. 
+
+- 🔭 I’m currently working on [Antares](https://github.com/EStarium/antares), an SQL client created on top of Electron and Vue.
+- 💬 Ask me about JavaScript stack
+- 📫 How to reach me: fabio286@gmail.com
+- 😄 Pronouns: he/him
+- 💻 [Website](https://fabiodistasio.it)
 
 <!--
 **Fabio286/Fabio286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
