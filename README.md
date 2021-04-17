@@ -8,6 +8,7 @@ I'm a freelance web developer, i love tech, the open source world and JavaScript
 - 😄 Pronouns: he/him
 - 💻 [Website](https://fabiodistasio.it)
 
+[![Plant a Tree](https://raw.githubusercontent.com/Fabio286/treedom-badge/master/svg/plant-a-tree.svg)](https://www.treedom.net/en/user/fabio-di-stasio/event/antares-for-the-planet)
 <!--
 **Fabio286/Fabio286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
