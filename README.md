@@ -3,10 +3,10 @@
 I'm a freelance web developer, i love tech, the open source world and JavaScript 💛. 
 
 - 🔭 I’m currently working on [Antares](https://github.com/Fabio286/antares), an SQL client created on top of Electron and Vue.
-- 💬 Ask me about JavaScript stack
+- 💬 Ask me about JavaScript stack.
 - 📫 How to reach me: fabio286@gmail.com
-- 😄 Pronouns: he/him
 - 💻 [Website](https://fabiodistasio.it)
+- 🎮 Hobbies: I like prog rock, post-punk and when I'm not coding I like to play videogames.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/fabiodistasio86?style=social)](https://twitter.com/fabiodistasio86) [![Mastodon Follow](https://img.shields.io/mastodon/follow/131824?domain=https%3A%2F%2Fmastodon.uno&style=social)](https://mastodon.uno/users/akela86/remote_follow) [![Plant a Tree](https://raw.githubusercontent.com/Fabio286/treedom-badge/master/svg/plant-a-tree.svg)](https://www.treedom.net/en/user/fabio-di-stasio/event/antares-for-the-planet)
 <!--
