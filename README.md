@@ -9,7 +9,10 @@ My motto is: do things for the sake of making them, the rest will come by itself
 - ⚡ Fun fact: I like prog rock, post-punk and when I'm not coding I like to play videogames.
 - 💻 [Website](https://fabiodistasio.it)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/fabiodistasio86?style=social)](https://twitter.com/fabiodistasio86) [![Mastodon Follow](https://img.shields.io/mastodon/follow/131824?domain=https%3A%2F%2Fmastodon.uno&style=social)](https://mastodon.uno/users/akela86/remote_follow) [![Plant a Tree](https://raw.githubusercontent.com/Fabio286/treedom-badge/master/svg/plant-a-tree.svg)](https://www.treedom.net/en/user/fabio-di-stasio/event/antares-for-the-planet)
+[![Twitter Follow](https://img.shields.io/twitter/follow/fabiodistasio86?style=social)](https://twitter.com/fabiodistasio86) 
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/131824?domain=https%3A%2F%2Fmastodon.uno&style=social)](https://mastodon.uno/users/akela86/remote_follow) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabio%20Di%20Stasio-blue)](https://www.linkedin.com/in/distasiofabio/) 
+[![Plant a Tree](https://raw.githubusercontent.com/Fabio286/treedom-badge/master/svg/plant-a-tree.svg)](https://www.treedom.net/en/user/fabio-di-stasio/event/antares-for-the-planet)
 <!--
 **Fabio286/Fabio286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
