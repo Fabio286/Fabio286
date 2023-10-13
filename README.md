@@ -5,7 +5,7 @@ My motto is: do things for the sake of making them, the rest will come by itself
 
 - 🔭 I’m currently working on [Antares](https://github.com/Fabio286/antares), an SQL client created on top of Electron and Vue.
 - 💬 Ask me about JavaScript stack.
-- 📫 How to reach me: fabio286@gmail.com
+- 📫 How to reach me: info@fabiodistasio.it
 - ⚡ Fun fact: I like prog rock, post-punk and when I'm not coding I like to play videogames.
 - 💻 [Website](https://fabiodistasio.it)
 
